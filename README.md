@@ -20,7 +20,7 @@ Open another terminal window or tab, and start MAVROS node using
 
 
   # Now you can see the drone takeoff to an altitude of 3 m.
-  The code may look confusing but still feel free to play with the altitude,x and y variable in the code.The drone will fly to different dirrections and altitudes.
+  The code may look confusing but still feel free to play with the altitude,x and y variable in the code.The drone will fly to different directions and altitudes.
   
 If you have any question please reach us.Next week we may try to explain to code and the architecture in detail.
  
