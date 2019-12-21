@@ -19,7 +19,7 @@ I have found the below links which provide  a quick tutorial about mavros and px
   
 If you have any question please reach us.
 
-You can also refered to these tutorials.
+You can also refered to these tutorials./n
 https://dev.px4.io/master/en/simulation/gazebo.html
 https://edu.gaitech.hk/gapter/mavros-basics.html 
 https://akshayk07.weebly.com/offboard-control-of-pixhawk.html.
