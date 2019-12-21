@@ -1,7 +1,7 @@
 # Mavros-Tutorial
 I have found the below links which provide  a quick tutorial about mavros and px4.  
  # Open the terminal
- -cd path_to_cloned_repo/src/Firmware
+ -cd path_to_cloned_repo/src/Firmware\
  -make px4_sitl gazebo
  # Open another terminal window or tab, and start MAVROS node using
  -roslaunch mavros px4.launch fcu_url:="udp://:14540@192.168.0.103:14557"
