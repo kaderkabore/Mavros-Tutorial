@@ -8,7 +8,7 @@
 
 Open another terminal window or tab, and start MAVROS node using
 
- -roslaunch mavros px4.launch fcu_url:="udp://:14540@192.168.0.103:14557"\
+ -roslaunch mavros px4.launch fcu_url:="udp://:14540@192.168.0.103:14557"
  
  From here you will have gazebo launched with a drone.
  
