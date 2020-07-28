@@ -1,6 +1,6 @@
 # Mavros-Tutorial
 For errors
-
+https://github.com/PX4/Firmware/issues/12385#issuecomment-541315457
 sudo apt-get install libprotobuf-dev libprotoc-dev protobuf-compiler libeigen3-dev libxml2-utils python-rospkg python-jinja2
 sudo apt-get install libgstreamer-plugins-base1.0-dev gstreamer1.0-plugins-bad gstreamer1.0-plugins-base gstreamer1.0-plugins-good gstreamer1.0-plugins-ugly -y
 
