@@ -1,5 +1,8 @@
 # Mavros-Tutorial
+For errors
 
+sudo apt-get install libprotobuf-dev libprotoc-dev protobuf-compiler libeigen3-dev libxml2-utils python-rospkg python-jinja2
+sudo apt-get install libgstreamer-plugins-base1.0-dev gstreamer1.0-plugins-bad gstreamer1.0-plugins-base gstreamer1.0-plugins-good gstreamer1.0-plugins-ugly -y
 
  This provide a quick tutorial about launching mavros and px4.  
  # Open the terminal
